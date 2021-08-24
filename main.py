@@ -30,7 +30,7 @@ ADL_BOT_RQ = {}
 START_TEXT = """
 Hello {} , I'am a simple file or media rename bot with permanent thumbnail support.
 
-Made by @FayasNoushad
+Made by @munnipopz
 """
 HELP_TEXT = """
 <b><u>Rename</u></b>
@@ -46,12 +46,12 @@ HELP_TEXT = """
 <b><u>Show Thumbnail</u></b>
 ➠ Send /showthumb for view current thumbnail.
 
-Made by @FayasNoushad
+Made by @munnipopz
 """
 ABOUT_TEXT = """
 - **Bot :** `Rename Bot`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
-- **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
+- **Creator :** [Munnipopz](https://telegram.me/munnipopz)
+- **Channel :** [Fayas Noushad](https://telegram.me/munnipopz)
 - **Credits :** `Everyone in this journey`
 - **Source :** [Click here](https://github.com/FayasNoushad/Rename-Bot)
 - **Language :** [Python3](https://python.org)
